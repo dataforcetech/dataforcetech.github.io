@@ -1,25 +1,11 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "DataForce Technologies, who we are!"
+date = "2025-09-24"
+aliases = ["about-us", "contact"]
+author = "Chris Sommer"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+At DataForce Technologies (est. 2018), we specialize in helping organizations unlock the full potential of their data platforms. With over two decades of hands-on experience in database engineering, cloud migrations, and enterprise-scale performance optimization, we bring deep technical knowledge paired with a practical, business-focused approach. From Fortune 500 companies to fast-growing startups, our work ensures secure, scalable, and reliable data systems that enable smarter decisions and better outcomes.
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Our expertise spans SQL Server, PostgreSQL, MySQL, and MongoDB Atlas, deployed across AWS, Azure, and hybrid environments. We focus on building automation frameworks, strengthening compliance and security, and optimizing performance—empowering engineering teams to deliver faster with confidence. Whether it’s migrating thousands of databases to the cloud, designing resilient high-availability solutions, or establishing CI/CD pipelines that reduce operational friction, we partner with you to simplify complexity and drive lasting results.

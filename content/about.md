@@ -1,10 +1,13 @@
 +++
-title = "About"
+title = ""
 description = "DataForce Technologies, who we are!"
 date = "2025-09-24"
 aliases = ["about-us", "contact"]
 author = "Chris Sommer"
 +++
+<div class="about">
+    <img src="/images/dft-logo-transparent.png" alt="avatar" style="width:50%; height:auto;">
+</div>
 
 At DataForce Technologies (est. 2018), we specialize in helping organizations unlock the full potential of their data platforms. With over two decades of hands-on experience in database engineering, cloud migrations, and enterprise-scale performance optimization, we bring deep technical knowledge paired with a practical, business-focused approach. From Fortune 500 companies to fast-growing startups, our work ensures secure, scalable, and reliable data systems that enable smarter decisions and better outcomes.
 
